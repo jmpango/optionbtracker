@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Option B+ Tracker</string>
+    <string name="app_header">National</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_filter">Filter By</string>
+    <string name="action_filter_button">Filter</string>
+    <string name="filter_week_label">Select a week:</string>
+    <string name="filter_level_label">Select a level:</string>
+    <string name="filter_ip_district_label">Select an IP of district:</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="btn_back"> Back </string>
+    <string name="btn_filter">Apply Filter</string>
+
+</resources>
